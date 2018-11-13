@@ -1,0 +1,6 @@
+prune dist
+prune build
+recursive-include avg_color *.py
+recursive-include avg_color *.conf
+recursive-include avg_color *.xml
+recursive-include avg_color *.h
